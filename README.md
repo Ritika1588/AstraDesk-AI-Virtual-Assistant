@@ -57,23 +57,8 @@ Explore the AstraDesk interface.
 | Sign Up | Sign In |
 |---|---|
 | ![Sign Up] <img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/aa602951-f828-4933-bd20-0f8ca2428fdb" />
-| ![Sign In](screenshots/signin.png) |
+| ![Sign In] <img width="1370" height="922" alt="image" src="https://github.com/user-attachments/assets/88f06922-1f15-445f-a34f-bb558c1a9a60" />
 
-### 2. Home Dashboard
-
-![Home Dashboard](screenshots/home.png)
-
-### 3. Assistant Customization
-
-![Assistant Customization](screenshots/customize.png)
-
-### 4. Voice Assistant Interaction
-
-![Voice Assistant](screenshots/voice-assistant.png)
-
-### 5. AI Response Interface
-
-![AI Response](screenshots/ai-response.png)
 
 ## 🏗️ Project Architecture
 
