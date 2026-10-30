@@ -1,4 +1,4 @@
-<img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/111f6455-8d62-4d13-bb89-1f0b07418bc1" />#  AstraDesk — AI-Powered Virtual Assistant
+#  AstraDesk — AI-Powered Virtual Assistant
 
 An intelligent, voice-enabled virtual assistant designed to make everyday digital interactions smarter, faster, and more intuitive.
 
