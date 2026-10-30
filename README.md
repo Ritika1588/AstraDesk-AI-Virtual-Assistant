@@ -1,12 +1,10 @@
-#  AstraDesk — AI-Powered Virtual Assistant
+<img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/111f6455-8d62-4d13-bb89-1f0b07418bc1" />#  AstraDesk — AI-Powered Virtual Assistant
 
 An intelligent, voice-enabled virtual assistant designed to make everyday digital interactions smarter, faster, and more intuitive.
 
 AstraDesk combines AI-powered conversations with voice interaction to provide users with a personalized assistant experience through a modern web interface.
 
-<p align="center">
-  <img src="screenshots/banner.png" alt="AstraDesk Banner" width="100%" />
-</p>
+
 
 <p align="center">
   <b>Talk naturally. Get intelligent responses. Experience AI differently.</b>
@@ -58,7 +56,8 @@ Explore the AstraDesk interface.
 
 | Sign Up | Sign In |
 |---|---|
-| ![Sign Up](screenshots/signup.png) | ![Sign In](screenshots/signin.png) |
+| ![Sign Up] <img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/aa602951-f828-4933-bd20-0f8ca2428fdb" />
+| ![Sign In](screenshots/signin.png) |
 
 ### 2. Home Dashboard
 
