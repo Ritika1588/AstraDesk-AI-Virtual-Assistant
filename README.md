@@ -54,11 +54,11 @@ Explore the AstraDesk interface.
 
 ### 1. Authentication
 
-| Sign Up | Sign In |
-|---|---|
-| ![Sign Up] <img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/aa602951-f828-4933-bd20-0f8ca2428fdb" />
-| ![Sign In] <img width="1370" height="922" alt="image" src="https://github.com/user-attachments/assets/88f06922-1f15-445f-a34f-bb558c1a9a60" />
+### 1. Authentication
 
+| Sign Up | Sign In |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/aa602951-f828-4933-bd20-0f8ca2428fdb" width="400" alt="AstraDesk Sign Up"/> | <img src="https://github.com/user-attachments/assets/88f06922-1f15-445f-a34f-bb558c1a9a60" width="400" alt="AstraDesk Sign In"/> |
 
 ## 🏗️ Project Architecture
 
