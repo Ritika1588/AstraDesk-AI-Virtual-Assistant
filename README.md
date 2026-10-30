@@ -1,4 +1,4 @@
-# ✨ AstraDesk — AI-Powered Virtual Assistant
+#  AstraDesk — AI-Powered Virtual Assistant
 
 An intelligent, voice-enabled virtual assistant designed to make everyday digital interactions smarter, faster, and more intuitive.
 
