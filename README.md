@@ -235,7 +235,7 @@ Building AstraDesk provided practical experience with:
 - Connecting frontend and backend services.
 
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 This project was built as a learning project with guidance and inspiration from a YouTube tutorial. It helped me explore full-stack development, AI integration, authentication, and voice-based interaction.
 
